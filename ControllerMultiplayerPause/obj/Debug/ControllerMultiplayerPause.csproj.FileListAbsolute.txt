@@ -1,0 +1,5 @@
+C:\Users\Sheav\source\repos\ControllerMultiplayerPause\ControllerMultiplayerPause\bin\Debug\ControllerMultiplayerPause.dll
+C:\Users\Sheav\source\repos\ControllerMultiplayerPause\ControllerMultiplayerPause\bin\Debug\ControllerMultiplayerPause.pdb
+C:\Users\Sheav\source\repos\ControllerMultiplayerPause\ControllerMultiplayerPause\obj\Debug\ControllerMultiplayerPause.csproj.CoreCompileInputs.cache
+C:\Users\Sheav\source\repos\ControllerMultiplayerPause\ControllerMultiplayerPause\obj\Debug\ControllerMultiplayerPause.dll
+C:\Users\Sheav\source\repos\ControllerMultiplayerPause\ControllerMultiplayerPause\obj\Debug\ControllerMultiplayerPause.pdb
